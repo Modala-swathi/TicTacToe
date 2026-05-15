@@ -1,0 +1,12 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "A simple Tic Tac Toe game built with vanilla HTML, CSS, and JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "start": "node -m http.server 8000"
+  },
+  "keywords": ["tic-tac-toe", "game"],
+  "author": "",
+  "license": "MIT"
+}
